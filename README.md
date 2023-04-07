@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subhrajit-dhar-%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb%f0%9f%87%ae%f0%9f%87%b3-149b2b1a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-dhar-%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb%f0%9f%87%ae%f0%9f%87%b3-149b2b1a6" height="30" width="40" /></a>
+<a href="https://leetcode.com/subhrajit_2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-dhar-%f0%9f%91%a8%e2%80%8d%f0%9f%92%bb%f0%9f%87%ae%f0%9f%87%b3-149b2b1a6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhrajit_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhrajit_2002" height="30" width="40" /></a>
 </p>
 
